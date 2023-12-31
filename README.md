@@ -1,3 +1,3 @@
 # demo
-demo repository 
-authe - rohitsanjeev
+demo repository
+auther - sanjeev muddala
